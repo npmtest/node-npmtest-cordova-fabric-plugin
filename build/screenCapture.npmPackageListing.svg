@@ -1,59 +1,59 @@
 <svg height="894" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="894" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-21 09:14:15 +0000 19659134 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-21 09:14:15 +0000     1477 bytes  CONTRIBUTING.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-21 09:14:15 +0000     1046 bytes  LICENSE</tspan>
-<tspan x="10" y="74">  3.  2017-04-21 09:14:15 +0000     5471 bytes  README.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-21 09:14:15 +0000      930 bytes  hooks/after_plugin_add.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-21 09:14:15 +0000      707 bytes  hooks/before_plugin_rm.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-21 09:14:15 +0000     1146 bytes  hooks/lib/android-helper.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-21 09:14:15 +0000     5218 bytes  hooks/lib/ios-helper.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-21 09:14:15 +0000     3083 bytes  hooks/lib/utilities.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-21 09:14:15 +0000      189 bytes  javac-services.0.log</tspan>
-<tspan x="10" y="186"> 10.  2017-04-21 09:14:15 +0000 12034536 bytes  lib/ios/Crashlytics.framework/Crashlytics</tspan>
-<tspan x="10" y="202"> 11.  2017-04-21 09:14:15 +0000      664 bytes  lib/ios/Crashlytics.framework/Headers/ANSCompati\</tspan>
+<tspan x="10" y="26">  0.  2017-04-21 09:15:18 +0000 19659134 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-21 09:15:18 +0000     1477 bytes  CONTRIBUTING.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-21 09:15:18 +0000     1046 bytes  LICENSE</tspan>
+<tspan x="10" y="74">  3.  2017-04-21 09:15:18 +0000     5471 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-21 09:15:18 +0000      930 bytes  hooks/after_plugin_add.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-21 09:15:18 +0000      707 bytes  hooks/before_plugin_rm.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-21 09:15:18 +0000     1146 bytes  hooks/lib/android-helper.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-21 09:15:18 +0000     5218 bytes  hooks/lib/ios-helper.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-21 09:15:18 +0000     3083 bytes  hooks/lib/utilities.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-21 09:15:18 +0000      189 bytes  javac-services.0.log</tspan>
+<tspan x="10" y="186"> 10.  2017-04-21 09:15:18 +0000 12034536 bytes  lib/ios/Crashlytics.framework/Crashlytics</tspan>
+<tspan x="10" y="202"> 11.  2017-04-21 09:15:18 +0000      664 bytes  lib/ios/Crashlytics.framework/Headers/ANSCompati\</tspan>
 <tspan x="10" y="218">bility.h</tspan>
-<tspan x="10" y="234"> 12.  2017-04-21 09:14:15 +0000    11749 bytes  lib/ios/Crashlytics.framework/Headers/Answers.h</tspan>
-<tspan x="10" y="250"> 13.  2017-04-21 09:14:15 +0000      762 bytes  lib/ios/Crashlytics.framework/Headers/CLSAttribu\</tspan>
+<tspan x="10" y="234"> 12.  2017-04-21 09:15:18 +0000    11749 bytes  lib/ios/Crashlytics.framework/Headers/Answers.h</tspan>
+<tspan x="10" y="250"> 13.  2017-04-21 09:15:18 +0000      762 bytes  lib/ios/Crashlytics.framework/Headers/CLSAttribu\</tspan>
 <tspan x="10" y="266">tes.h</tspan>
-<tspan x="10" y="282"> 14.  2017-04-21 09:14:15 +0000     2053 bytes  lib/ios/Crashlytics.framework/Headers/CLSLogging\</tspan>
+<tspan x="10" y="282"> 14.  2017-04-21 09:15:18 +0000     2053 bytes  lib/ios/Crashlytics.framework/Headers/CLSLogging\</tspan>
 <tspan x="10" y="298">.h</tspan>
-<tspan x="10" y="314"> 15.  2017-04-21 09:14:15 +0000     3102 bytes  lib/ios/Crashlytics.framework/Headers/CLSReport.\</tspan>
+<tspan x="10" y="314"> 15.  2017-04-21 09:15:18 +0000     3102 bytes  lib/ios/Crashlytics.framework/Headers/CLSReport.\</tspan>
 <tspan x="10" y="330">h</tspan>
-<tspan x="10" y="346"> 16.  2017-04-21 09:14:15 +0000     1230 bytes  lib/ios/Crashlytics.framework/Headers/CLSStackFr\</tspan>
+<tspan x="10" y="346"> 16.  2017-04-21 09:15:18 +0000     1230 bytes  lib/ios/Crashlytics.framework/Headers/CLSStackFr\</tspan>
 <tspan x="10" y="362">ame.h</tspan>
-<tspan x="10" y="378"> 17.  2017-04-21 09:14:15 +0000    12237 bytes  lib/ios/Crashlytics.framework/Headers/Crashlytic\</tspan>
+<tspan x="10" y="378"> 17.  2017-04-21 09:15:18 +0000    12237 bytes  lib/ios/Crashlytics.framework/Headers/Crashlytic\</tspan>
 <tspan x="10" y="394">s.h</tspan>
-<tspan x="10" y="410"> 18.  2017-04-21 09:14:15 +0000      921 bytes  lib/ios/Crashlytics.framework/Info.plist</tspan>
-<tspan x="10" y="426"> 19.  2017-04-21 09:14:15 +0000      267 bytes  lib/ios/Crashlytics.framework/Modules/module.mod\</tspan>
+<tspan x="10" y="410"> 18.  2017-04-21 09:15:18 +0000      921 bytes  lib/ios/Crashlytics.framework/Info.plist</tspan>
+<tspan x="10" y="426"> 19.  2017-04-21 09:15:18 +0000      267 bytes  lib/ios/Crashlytics.framework/Modules/module.mod\</tspan>
 <tspan x="10" y="442">ulemap</tspan>
-<tspan x="10" y="458"> 20.  2017-04-21 09:14:15 +0000      757 bytes  lib/ios/Crashlytics.framework/run</tspan>
-<tspan x="10" y="474"> 21.  2017-04-21 09:14:15 +0000   297248 bytes  lib/ios/Crashlytics.framework/submit</tspan>
-<tspan x="10" y="490"> 22.  2017-04-21 09:14:15 +0000   698000 bytes  lib/ios/Crashlytics.framework/uploadDSYM</tspan>
-<tspan x="10" y="506"> 23.  2017-04-21 09:14:15 +0000  5805680 bytes  lib/ios/Fabric.framework/Fabric</tspan>
-<tspan x="10" y="522"> 24.  2017-04-21 09:14:15 +0000     1411 bytes  lib/ios/Fabric.framework/Headers/FABAttributes.h</tspan>
-<tspan x="10" y="538"> 25.  2017-04-21 09:14:15 +0000     2363 bytes  lib/ios/Fabric.framework/Headers/Fabric.h</tspan>
-<tspan x="10" y="554"> 26.  2017-04-21 09:14:15 +0000      871 bytes  lib/ios/Fabric.framework/Info.plist</tspan>
-<tspan x="10" y="570"> 27.  2017-04-21 09:14:15 +0000       98 bytes  lib/ios/Fabric.framework/Modules/module.modulema\</tspan>
+<tspan x="10" y="458"> 20.  2017-04-21 09:15:18 +0000      757 bytes  lib/ios/Crashlytics.framework/run</tspan>
+<tspan x="10" y="474"> 21.  2017-04-21 09:15:18 +0000   297248 bytes  lib/ios/Crashlytics.framework/submit</tspan>
+<tspan x="10" y="490"> 22.  2017-04-21 09:15:18 +0000   698000 bytes  lib/ios/Crashlytics.framework/uploadDSYM</tspan>
+<tspan x="10" y="506"> 23.  2017-04-21 09:15:18 +0000  5805680 bytes  lib/ios/Fabric.framework/Fabric</tspan>
+<tspan x="10" y="522"> 24.  2017-04-21 09:15:18 +0000     1411 bytes  lib/ios/Fabric.framework/Headers/FABAttributes.h</tspan>
+<tspan x="10" y="538"> 25.  2017-04-21 09:15:18 +0000     2363 bytes  lib/ios/Fabric.framework/Headers/Fabric.h</tspan>
+<tspan x="10" y="554"> 26.  2017-04-21 09:15:18 +0000      871 bytes  lib/ios/Fabric.framework/Info.plist</tspan>
+<tspan x="10" y="570"> 27.  2017-04-21 09:15:18 +0000       98 bytes  lib/ios/Fabric.framework/Modules/module.modulema\</tspan>
 <tspan x="10" y="586">p</tspan>
-<tspan x="10" y="602"> 28.  2017-04-21 09:14:15 +0000      757 bytes  lib/ios/Fabric.framework/run</tspan>
-<tspan x="10" y="618"> 29.  2017-04-21 09:14:15 +0000   698480 bytes  lib/ios/Fabric.framework/uploadDSYM</tspan>
-<tspan x="10" y="634"> 30.  2017-04-21 09:14:15 +0000      505 bytes  lib/ios/README.txt</tspan>
-<tspan x="10" y="650"> 31.  2017-04-21 09:14:15 +0000      848 bytes  package.json</tspan>
-<tspan x="10" y="666"> 32.  2017-04-21 09:14:15 +0000     2946 bytes  plugin.xml</tspan>
-<tspan x="10" y="682"> 33.  2017-04-21 09:14:15 +0000    14976 bytes  src/android/FabricPlugin.java</tspan>
-<tspan x="10" y="698"> 34.  2017-04-21 09:14:15 +0000      178 bytes  src/android/JavaScriptException.java</tspan>
-<tspan x="10" y="714"> 35.  2017-04-21 09:14:15 +0000      649 bytes  src/android/build-extras.gradle</tspan>
-<tspan x="10" y="730"> 36.  2017-04-21 09:14:15 +0000    10787 bytes  src/ios/FabricPlugin.m</tspan>
-<tspan x="10" y="746"> 37.  2017-04-21 09:14:15 +0000     6297 bytes  tests/runtime-tests.js</tspan>
-<tspan x="10" y="762"> 38.  2017-04-21 09:14:15 +0000     3825 bytes  typings/cordova-fabric-plugin-tests.ts</tspan>
-<tspan x="10" y="778"> 39.  2017-04-21 09:14:15 +0000    10422 bytes  typings/cordova-fabric-plugin.d.ts</tspan>
-<tspan x="10" y="794"> 40.  2017-04-21 09:14:15 +0000     3084 bytes  www/FabricPlugin.Answers.es6</tspan>
-<tspan x="10" y="810"> 41.  2017-04-21 09:14:15 +0000     4104 bytes  www/FabricPlugin.Answers.js</tspan>
-<tspan x="10" y="826"> 42.  2017-04-21 09:14:15 +0000     2067 bytes  www/FabricPlugin.Crashlytics.es6</tspan>
-<tspan x="10" y="842"> 43.  2017-04-21 09:14:15 +0000     4399 bytes  www/FabricPlugin.Crashlytics.js</tspan>
-<tspan x="10" y="858"> 44.  2017-04-21 09:14:15 +0000      296 bytes  www/FabricPlugin.es6</tspan>
-<tspan x="10" y="874"> 45.  2017-04-21 09:14:15 +0000     1298 bytes  www/FabricPlugin.js</tspan>
+<tspan x="10" y="602"> 28.  2017-04-21 09:15:18 +0000      757 bytes  lib/ios/Fabric.framework/run</tspan>
+<tspan x="10" y="618"> 29.  2017-04-21 09:15:18 +0000   698480 bytes  lib/ios/Fabric.framework/uploadDSYM</tspan>
+<tspan x="10" y="634"> 30.  2017-04-21 09:15:18 +0000      505 bytes  lib/ios/README.txt</tspan>
+<tspan x="10" y="650"> 31.  2017-04-21 09:15:18 +0000      848 bytes  package.json</tspan>
+<tspan x="10" y="666"> 32.  2017-04-21 09:15:18 +0000     2946 bytes  plugin.xml</tspan>
+<tspan x="10" y="682"> 33.  2017-04-21 09:15:18 +0000    14976 bytes  src/android/FabricPlugin.java</tspan>
+<tspan x="10" y="698"> 34.  2017-04-21 09:15:18 +0000      178 bytes  src/android/JavaScriptException.java</tspan>
+<tspan x="10" y="714"> 35.  2017-04-21 09:15:18 +0000      649 bytes  src/android/build-extras.gradle</tspan>
+<tspan x="10" y="730"> 36.  2017-04-21 09:15:18 +0000    10787 bytes  src/ios/FabricPlugin.m</tspan>
+<tspan x="10" y="746"> 37.  2017-04-21 09:15:18 +0000     6297 bytes  tests/runtime-tests.js</tspan>
+<tspan x="10" y="762"> 38.  2017-04-21 09:15:18 +0000     3825 bytes  typings/cordova-fabric-plugin-tests.ts</tspan>
+<tspan x="10" y="778"> 39.  2017-04-21 09:15:18 +0000    10422 bytes  typings/cordova-fabric-plugin.d.ts</tspan>
+<tspan x="10" y="794"> 40.  2017-04-21 09:15:18 +0000     3084 bytes  www/FabricPlugin.Answers.es6</tspan>
+<tspan x="10" y="810"> 41.  2017-04-21 09:15:18 +0000     4104 bytes  www/FabricPlugin.Answers.js</tspan>
+<tspan x="10" y="826"> 42.  2017-04-21 09:15:18 +0000     2067 bytes  www/FabricPlugin.Crashlytics.es6</tspan>
+<tspan x="10" y="842"> 43.  2017-04-21 09:15:18 +0000     4399 bytes  www/FabricPlugin.Crashlytics.js</tspan>
+<tspan x="10" y="858"> 44.  2017-04-21 09:15:18 +0000      296 bytes  www/FabricPlugin.es6</tspan>
+<tspan x="10" y="874"> 45.  2017-04-21 09:15:18 +0000     1298 bytes  www/FabricPlugin.js</tspan>
 </text>
 </svg>
